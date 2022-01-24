@@ -1,2 +1,3 @@
 this is vijay
 2  this new line
+3 after merging vijay
